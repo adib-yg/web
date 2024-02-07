@@ -41,6 +41,10 @@ This monorepo contains the web services and documentation for open.mp and SA-MP.
 - `prisma/` [Prisma](https://prisma.io/) database models for generating Go code and SQL migrations.
 - `app/` Backend API for server listings, accounts, etc.
 
+## Repo Activity
+
+![Alt](https://repobeats.axiom.co/api/embed/f2728dba5a54d3f019f42fee7b48aaa37a38f80d.svg "Repobeats analytics image")
+
 ## Frontend Development
 
 To work on the frontend, you mostly only need to focus on the `frontend/` directory. Run `npm` commands in there such as `npm run dev`. See the readme file in there for more details.
